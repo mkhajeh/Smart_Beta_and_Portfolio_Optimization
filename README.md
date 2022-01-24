@@ -1,4 +1,4 @@
-# Trading with Momentum
+# Smart_Beta_and_Portfolio_Optimization
 
 In this project, I built a smart beta portfolio and compare it to a benchmark index. To find out how well the smart beta portfolio did, I calculated the tracking error against the index. I then built a portfolio by using quadratic programming to optimize the weights. My code rebalanced this portfolio and calculated turn over to evaluate the performance. I used this metric to find the optimal rebalancing Frequency. For the dataset, I used the end of day from Quotemedia.
 
